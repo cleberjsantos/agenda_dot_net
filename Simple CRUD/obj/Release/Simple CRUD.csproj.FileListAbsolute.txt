@@ -1,0 +1,20 @@
+Z:\Simple CRUD\Simple CRUD\bin\Release\Simple CRUD.exe.config
+Z:\Simple CRUD\Simple CRUD\bin\Release\Simple CRUD.exe
+Z:\Simple CRUD\Simple CRUD\bin\Release\Simple CRUD.pdb
+Z:\Simple CRUD\Simple CRUD\bin\Release\EntityFramework.dll
+Z:\Simple CRUD\Simple CRUD\bin\Release\EntityFramework.SqlServer.dll
+Z:\Simple CRUD\Simple CRUD\bin\Release\System.Data.SQLite.dll
+Z:\Simple CRUD\Simple CRUD\bin\Release\System.Data.SQLite.EF6.dll
+Z:\Simple CRUD\Simple CRUD\bin\Release\System.Data.SQLite.Linq.dll
+Z:\Simple CRUD\Simple CRUD\bin\Release\EntityFramework.xml
+Z:\Simple CRUD\Simple CRUD\bin\Release\EntityFramework.SqlServer.xml
+Z:\Simple CRUD\Simple CRUD\bin\Release\System.Data.SQLite.xml
+Z:\Simple CRUD\Simple CRUD\bin\Release\System.Data.SQLite.dll.config
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.csprojAssemblyReference.cache
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple_CRUD.Main.resources
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple_CRUD.Properties.Resources.resources
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.csproj.GenerateResource.cache
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.csproj.CoreCompileInputs.cache
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.csproj.CopyComplete
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.exe
+Z:\Simple CRUD\Simple CRUD\obj\Release\Simple CRUD.pdb

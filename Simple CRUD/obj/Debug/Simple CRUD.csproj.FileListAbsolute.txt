@@ -1,0 +1,40 @@
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.exe.config
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.exe
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.pdb
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.dll
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.xml
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple_CRUD.Main.resources
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple_CRUD.Properties.Resources.resources
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.GenerateResource.cache
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.CopyComplete
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.exe
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.pdb
+C:\Users\Arvin\Desktop\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csprojResolveAssemblyReference.cache
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csprojAssemblyReference.cache
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple_CRUD.Main.resources
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple_CRUD.Properties.Resources.resources
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.GenerateResource.cache
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.CoreCompileInputs.cache
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.pdb
+Z:\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.exe.config
+Z:\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.exe
+Z:\Simple CRUD\Simple CRUD\bin\Debug\Simple CRUD.pdb
+Z:\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.dll
+Z:\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.dll
+Z:\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.xml
+Z:\Simple CRUD\Simple CRUD\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.xml
+Z:\Simple CRUD\Simple CRUD\bin\Debug\System.Data.SQLite.dll.config
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.csproj.CopyComplete
+Z:\Simple CRUD\Simple CRUD\obj\Debug\Simple CRUD.exe
